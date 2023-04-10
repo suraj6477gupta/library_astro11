@@ -4,7 +4,7 @@ const missceleneous = [
         date :"26 May, 2024",
         name :"Temple 1 Comet",
         description :"Tempel 1 (official designation: 9P/Tempel) is a periodic Jupiter-family comet discovered by Wilhelm Tempel in 1867. It completes an orbit of the Sun every 5.5 years. Tempel 1 was the target of the Deep Impact space mission, which photographed a deliberate high-speed impact upon the comet in 2005. ",
-        img_link : "https://en.wikipedia.org/wiki/Tempel_1",
+        img_link : "https://upload.wikimedia.org/wikipedia/commons/5/5d/PIA02142_Tempel_1_bottom_sharped.jpg",
         more_info_link :"https://en.wikipedia.org/wiki/Tempel_1",
 
     },
@@ -13,7 +13,7 @@ const missceleneous = [
         date :"7 August, 2027",
         name :"	Asteroid (137108) 1999 AN10",
         description :"(137108) 1999 AN10 is a kilometer-length near-Earth asteroid and potentially hazardous asteroid of the Apollo group. It was discovered by LINEAR on 13 January 1999.",
-        img_link :"https://en.wikipedia.org/wiki/(137108)_1999_AN10",
+        img_link :"https://upload.wikimedia.org/wikipedia/commons/6/61/Toutatis.jpg",
         more_info_link :"https://en.wikipedia.org/wiki/(137108)_1999_AN10",
 
     },
@@ -22,7 +22,7 @@ const missceleneous = [
         date : "26 October, 2028",
         name :"Asteroid (35396) 1997 XF11",
         description :"(35396) 1997 XF11, provisional designation 1997 XF11, is a kilometer-sized asteroid, classified as a near-Earth object, Mars-crosser and potentially hazardous asteroid of the Apollo group.",
-        img_link :"https://en.wikipedia.org/wiki/Asteroid",
+        img_link :"https://en.wikipedia.org/wiki/Asteroid#/media/File:243_Ida_-_August_1993_(16366655925).jpg",
         more_info_link :"https://en.wikipedia.org/wiki/(35396)_1997_XF11",
 
     },
@@ -31,7 +31,7 @@ const missceleneous = [
         date :"13 april,2029",
         name :"Astroid (99942) Apophis",
         description :"Near-Earth asteroid (99942) Apophis will pass Earth at a relatively small distance of 31,200 kilometres (19,400 mi) above Earth's surface, closer than some geosynchronous satellites.",
-        img_link :"https://en.wikipedia.org/wiki/Potentially_hazardous_object",
+        img_link :"https://en.wikipedia.org/wiki/99942_Apophis#/media/File:99942_Apophis_shape.png",
         more_info_link :"https://en.wikipedia.org/wiki/99942_Apophis",
 
     },
@@ -40,7 +40,7 @@ const missceleneous = [
         date :"17 March 2031",
         name :"	Transit of Venus from Uranus.",
         description :" Transit of Venus across the Sun takes place when the planet Venus passes directly between the Sun and a superior planet, becoming visible against (and hence obscuring a small portion of) the solar disk. During a transit, Venus can be seen from Earth as a small black dot moving across the face of the Sun.",
-        img_link :"https://en.wikipedia.org/wiki/Transit_of_Venus",
+        img_link :"https://en.wikipedia.org/wiki/Transit_of_Venus#/media/File:SDO's_Ultra-high_Definition_View_of_2012_Venus_Transit_(171_Angstrom_Full_Disc).jpg",
         more_info_link :"https://en.wikipedia.org/wiki/Transit_of_Venus",
 
     },
@@ -49,7 +49,7 @@ const missceleneous = [
         date :"29 October, 2031",
         name :"Transit of Venus from Uranus",
         description :"A transit of Venus across the Sun takes place when the planet Venus passes directly between the Sun and a superior planet, becoming visible against (and hence obscuring a small portion of) the solar disk.",
-        img_link :"https://en.wikipedia.org/wiki/Transit_of_Venus",
+        img_link :"https://en.wikipedia.org/wiki/Transit_of_Venus#/media/File:NASA's_SDO_Satellite_Captures_First_Image_of_2012_Venus_Transit_(Full_Disc).jpg",
         more_info_link :"https://en.wikipedia.org/wiki/Transit_of_Venus",
 
     },
@@ -58,7 +58,7 @@ const missceleneous = [
         date :"17December, 2031",
         name :"Transit of Earth from Uranus",
         description :"Transit of Earth from Uranus.",
-        img_link : "https://en.wikipedia.org/wiki/Uranus",
+        img_link : "https://en.wikipedia.org/wiki/Uranus#/media/File:Uranus,_Earth_size_comparison_2.jpg",
         more_info_link :"https://en.wikipedia.org/wiki/Uranus",
 
     },
@@ -67,7 +67,7 @@ const missceleneous = [
         date :"13 November, 2032",
         name :"Transit of Mercury",
         description :"A transit of Mercury across the Sun takes place when the planet Mercury passes directly between the Sun and a superior planet. During a transit, Mercury appears as a tiny black dot moving across the Sun as the planet obscures a small portion of the solar disk.",
-        img_link :"https://en.wikipedia.org/wiki/Transit_of_Mercury",
+        img_link :"https://en.wikipedia.org/wiki/Transit_of_Mercury#/media/File:Transit_Of_Mercury,_May_9th,_2016.png",
         more_info_link :"https://en.wikipedia.org/wiki/Transit_of_Mercury",
 
     },
@@ -76,7 +76,7 @@ const missceleneous = [
         date :"25 November, 2034",
         name :"	Supermoon",
         description :"A supermoon is a full moon or a new moon that nearly coincides with perigee—the closest that the Moon comes to the Earth in its elliptic orbit—resulting in a slightly larger-than-usual apparent size of the lunar disk as viewed from Earth.",
-        img_link :"https://en.wikipedia.org/wiki/Supermoon",
+        img_link :"https://en.wikipedia.org/wiki/Supermoon#/media/File:NASA_Supermoon_comparison.jpg",
         more_info_link :"https://en.wikipedia.org/wiki/Supermoon",
 
     },
@@ -85,7 +85,7 @@ const missceleneous = [
         date :"2038",
         name :"Comet 9P/Tempel 1",
         description :"Comet 9P/Tempel 1 will pass near the Earth.Tempel 1 (official designation: 9P/Tempel) is a periodic Jupiter-family comet discovered by Wilhelm Tempel in 1867. It completes an orbit of the Sun every 5.5 years.",
-        img_link :"https://en.wikipedia.org/wiki/Tempel_1",
+        img_link :"https://en.wikipedia.org/wiki/Tempel_1#/media/File:Deep_Impact_HRI.jpeg",
         more_info_link :"https://en.wikipedia.org/wiki/Tempel_1",
 
     }
